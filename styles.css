@@ -1,0 +1,57 @@
+.firstname{
+    margin-left: 5%;
+    padding-left:5px;
+    padding-top: 3px;
+    border-radius: 5px;
+}
+.lastname{
+    margin-left: 5%;
+    padding-left: 5px;
+    padding-top: 3px;
+    border-radius: 5px;
+}
+.address{
+    margin-left: 7.5%;
+    padding-left: 5px;
+    padding-bottom: 10%;
+    border-radius: 5px;
+}
+.pincode{
+    margin-left: 8%;
+    padding-left: 5px;
+    padding-top: 3px;
+    border-radius: 5px;
+}
+.radio{
+    margin-left: 15%;
+}
+.food{
+    margin-left: 15%;
+}
+.state{
+    margin-left: 11%;
+    padding-left: 5px;
+    padding-bottom: 3px;
+    border-radius: 5px;
+}
+.country{
+    margin-left: 8%;
+    padding-left: 5px;
+    padding-bottom: 3px;
+    border-radius: 5px;
+}
+.form{
+    max-width: 600px;
+    background-color:beige;
+    padding:5%;
+}
+.submit{
+    margin-top: 8%;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+}
+.head{
+    padding-bottom: 5%;
+    text-align: center;
+}
